@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Thing
+comment0.text=\n\ Thing\ is\ a\ Comparable\ object\ that\ holds\ primative\ ints\n\ \n\ @author\ \n\ @version\n
+comment1.params=x
+comment1.target=Thing(int)
+comment2.params=
+comment2.target=int\ getAmount()
+comment3.params=
+comment3.target=void\ setAmount()
+comment4.params=o
+comment4.target=int\ compareTo(java.lang.Object)
+comment5.params=a
+comment5.target=boolean\ equals(Thing)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
